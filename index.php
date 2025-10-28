@@ -29,7 +29,7 @@
     <div class="row rows-cols-md-5 align-items-center">
       <div class="col">
         <div class="p-3 align-items-center">
-          <h1 class="mt-5">Selamat Datang di ITHub</h1>
+          <h1 class="mt-5">Selamat Datang Semuannya di ITHub</h1>
           <p class="lead">Tempat Belajar IT untuk meningkatkan keterampilan Anda.</p>
           <a href="#" class="btn btn-info btn-lg mt-3 text-light" data-bs-toggle="modal"
             data-bs-target="#modalDaftar">Daftar Sekarang</a>
