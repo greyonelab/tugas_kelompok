@@ -36,7 +36,7 @@
                 </div>
                 <div>
                   <h6 class="mb-1 fw-bold text-dark">Alamat Kantor</h6>
-                  <p class="mb-0 text-muted">Jl. Perjuangan No. 123, Tasikmalaya, 12345</p>
+                  <p class="mb-0 text-muted">Jl. Perjuangan No. 0123, Tasikmalaya, 12345</p>
                 </div>
               </div>
             </div>
